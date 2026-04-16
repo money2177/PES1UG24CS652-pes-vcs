@@ -9,10 +9,6 @@
 // TODO functions:     object_write, object_read
 
 
-
-
-
-
 #include "pes.h"
 #include <stdio.h>
 #include <stdlib.h>
