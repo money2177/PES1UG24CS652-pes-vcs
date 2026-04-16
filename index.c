@@ -1,8 +1,3 @@
-
-
-
-
-
 // index.c — Staging area implementation
 //
 // Text format of .pes/index (one entry per line, sorted by path):
@@ -28,16 +23,6 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <dirent.h>
-
-
-
-
-
-
-
-
-
-
 
 // ─── PROVIDED ────────────────────────────────────────────────────────────────
 
