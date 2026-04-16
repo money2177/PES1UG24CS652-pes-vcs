@@ -27,6 +27,8 @@
 
 
 
+
+
 // ─── PROVIDED ────────────────────────────────────────────────────────────────
 
 // Find an index entry by path (linear scan).
