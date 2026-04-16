@@ -24,6 +24,9 @@
 #include <unistd.h>
 #include <dirent.h>
 
+
+
+
 // ─── PROVIDED ────────────────────────────────────────────────────────────────
 
 // Find an index entry by path (linear scan).
